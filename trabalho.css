@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(168, 167, 167);
+}
+
+h1 {
+    color: rgb(11, 155, 165);
+    font-size: 50px;
+    text-align: center
+}
+
+.volei {
+    border-radius: 50%;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+p {
+    font-size: 20px; /* tamanho da fonte */
+}
+
+a {
+    color: black
+        /*cor padrão do link*/
+}
+
+a:hover {
+    color: red;
+    /*quando passar o mouse*/
+}
+
+.comentario {
+    font-size: 10px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
